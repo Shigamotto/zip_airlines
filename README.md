@@ -2,7 +2,7 @@
 
 This project created for a Interview Test Task.
 
-###We are creating a new software for an airline company called “ZipAirlines”.
+### We are creating a new software for an airline company called “ZipAirlines”.
 - The company is assessing 10 different airplanes.
 - Each airplane has a fuel tank of (200 liters * id of the airplane) capacity. For example, if
 the airplane id = 2, the fuel tank capacity is 2*200 = 400 liters.
@@ -10,7 +10,7 @@ the airplane id = 2, the fuel tank capacity is 2*200 = 400 liters.
 0.80 liters.
 - Each passenger will increase fuel consumption for additional 0.002 liters per minute.
 
-###Write a RESTful API using Django Rest Framework to:
+### Write a RESTful API using Django Rest Framework to:
 - Allow for input of 10 airplanes with user defined id and passenger assumptions
 - Print total airplane fuel consumption per minute and maximum minutes able to fly
 
