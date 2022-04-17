@@ -1,0 +1,19 @@
+# Python
+*.py[co]
+**/__pycache__/__
+**/__pytest_cache__/__
+.coverage
+
+# Logs
+*.log
+
+# PyCharm
+.idea
+.pycharm_helpers
+*/.pycharm_helpers/*
+
+# System
+.DS_Store
+
+# Don't ignore any Python files if we pass a mask
+!*.py
